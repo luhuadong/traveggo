@@ -1,0 +1,34 @@
+body {
+    background-color: #FFF8DC;
+    /* background-color: #3771BB; */
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid #151513;
+    font-family: sans-serif;
+}
+
+header.top {
+    background-color: #FFF8DC;
+    /* background-color: #3771BB; */
+    margin: 10px 10px 40px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+ul.link-list li {
+    padding: 10px;
+}
+
+article {
+    text-align:       center;
+}
+
+footer {
+    /* background-color: #70B7FD; */
+    background-color: #151513;
+    color:            #fff;
+    text-align:       center;
+    padding:          15px;
+    margin: 40px 0px 0px 0px;
+    font-size:        80%;
+}
+
